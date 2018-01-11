@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="google_topmargin">-100dp</dimen>
+    <dimen name="uda_width">150dp</dimen>
+    <dimen name="uda_height">23dp</dimen>
+    <dimen name="uda_marginTop">318dp</dimen>
+    <dimen name="uda_marginLeft">150dp</dimen>
+    <dimen name="oneSeven">170dp</dimen>
+    <dimen name="one0">10dp</dimen>
+    <dimen name="two0">20dp</dimen>
+    <dimen name="three0">30dp</dimen>
+    <dimen name="four0">49dp</dimen>
+    <dimen name="two00">200dp</dimen>
+</resources>
